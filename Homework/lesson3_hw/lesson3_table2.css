@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(46, 43, 61);
+}
+h1{
+    color: rgb(40, 131, 158); 
+    text-align: center;
+}
+.res{
+    color: rgb(229, 245, 3);
+}
+
+table{
+    width:70%;   
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    
+}
+tr:nth-child(even){
+    background-color: rgb(99, 94, 124);
+}
+tr:nth-child(odd){
+    background-color: rgb(46, 43, 61);
+}
+th{
+  
+    color:rgb(24, 146, 177);
+    text-align: left;
+    border-collapse: collapse;
+    padding: 20px;
+    
+
+}
+td{
+    border: 0.1px solid;
+    padding: 20px;
+    border-collapse: collapse;
+}
+
+.firstElement{
+  color:rgba(255, 0, 149, 0.938);
+}
+.num{
+  color:rgb(221, 214, 214);
+}

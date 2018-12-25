@@ -1,0 +1,22 @@
+label {
+    display: block;
+    color:black;
+    width: 100%;
+ }
+ input {
+    display: block;
+    width: 100%;
+ }
+ fieldset{
+     width:15%
+ }
+
+ button{
+  margin: auto;
+
+  display: block;
+
+  width: 70%;
+    background-color: #00BFFF;
+     border-color: #9BDAB1
+ }
